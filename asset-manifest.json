@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/OrderManager/static/css/main.e0b1c6b4.css",
-    "main.js": "/OrderManager/static/js/main.62171b95.js",
+    "main.css": "/OrderManager/static/css/main.0901c0ae.css",
+    "main.js": "/OrderManager/static/js/main.c4b79b92.js",
+    "static/media/InterVariable-Italic.woff2": "/OrderManager/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
+    "static/media/InterVariable.woff2": "/OrderManager/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
     "static/media/primeicons.svg": "/OrderManager/static/media/primeicons.6ed59f962963a4a73af2.svg",
     "static/media/primeicons.eot": "/OrderManager/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
     "static/media/primeicons.woff": "/OrderManager/static/media/primeicons.8931fda1930c3bd21e96.woff",
     "static/media/primeicons.ttf": "/OrderManager/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
     "static/media/primeicons.woff2": "/OrderManager/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "index.html": "/OrderManager/index.html",
-    "main.e0b1c6b4.css.map": "/OrderManager/static/css/main.e0b1c6b4.css.map",
-    "main.62171b95.js.map": "/OrderManager/static/js/main.62171b95.js.map"
+    "main.0901c0ae.css.map": "/OrderManager/static/css/main.0901c0ae.css.map",
+    "main.c4b79b92.js.map": "/OrderManager/static/js/main.c4b79b92.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0b1c6b4.css",
-    "static/js/main.62171b95.js"
+    "static/css/main.0901c0ae.css",
+    "static/js/main.c4b79b92.js"
   ]
 }
